@@ -9,7 +9,7 @@ This project is a full-stack Tech Blog application which follows the MVC (Modelâ
 ## Deployed App URL
 [Here](https://connor-neale-tech-blog.onrender.com/) is the link to the deployed app on Render.
 
-## Video walkthrough:
+## Video Walkthrough
 
             
 ## Table of Contents
